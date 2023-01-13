@@ -13,9 +13,9 @@ public class Pruebasgit {
 
     public static void main(String[] args) {
         System.out.println("To fuck up");
-      int a=10;
+      int a=11;
         System.out.println(a);
-    
+        System.out.println("aaaaa");
         System.out.println("Hello Comit2 prueba 2: try errors to get branches together"
                 + "and having newer branches together to fuck this up");
         System.out.println("CSo we need some more changes Distinct Branch");
