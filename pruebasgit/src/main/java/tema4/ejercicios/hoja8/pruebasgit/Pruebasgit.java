@@ -12,7 +12,7 @@ package tema4.ejercicios.hoja8.pruebasgit;
 public class Pruebasgit {
 
     public static void main(String[] args) {
-        System.out.println("tuhmuertos");
+        System.out.println("To fuck up");
       int a=10;
         System.out.println(a);
     
