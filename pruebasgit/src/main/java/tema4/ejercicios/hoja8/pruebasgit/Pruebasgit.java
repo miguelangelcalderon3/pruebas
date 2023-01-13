@@ -15,6 +15,7 @@ public class Pruebasgit {
         System.out.println("To fuck up");
       int a=11;
         System.out.println(a);
+
         System.out.println("aaaaa");
         System.out.println("bbbbb");
         System.out.println("Hello Comit2 prueba 2: try errors to get branches together"
@@ -23,5 +24,10 @@ public class Pruebasgit {
         System.out.println("Now i add changes and try to merge branches");  
         System.out.println("Prueba extraparacOmint");
         System.out.println("Asdasdqasd");
+
+    
+        System.out.println("With THIS SHOULD BE ERRORS");
+        
+
     }
 }
