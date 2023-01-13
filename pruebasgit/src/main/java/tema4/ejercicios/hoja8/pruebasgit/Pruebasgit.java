@@ -15,10 +15,10 @@ public class Pruebasgit {
         System.out.println("tuhmuertos");
       int a=10;
         System.out.println(a);
-    System.out.println("Hello World!");
+    
         System.out.println("Hello Comit2 prueba 2: try errors to get branches together"
                 + "and having newer branches together to fuck this up");
-        System.out.println("Comit1Prueba 2: Distinct Branch");
+        System.out.println("CSo we need some more changes Distinct Branch");
         System.out.println("Now i add changes and try to merge branches");  
         System.out.println("Prueba extraparacOmint");
         
